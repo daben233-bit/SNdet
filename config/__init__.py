@@ -1,0 +1,1 @@
+from .snconfig import sncfg
